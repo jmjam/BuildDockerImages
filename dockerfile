@@ -6,4 +6,4 @@ LABEL maintainer="jared.enaje@gmail.com"
 
 WORKDIR /usr/share/nginx/html
 
-COPY /root/BuildDockerImages/index.html index.html
+COPY index.html index.html
