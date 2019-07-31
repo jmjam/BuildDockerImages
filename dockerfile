@@ -1,3 +1,4 @@
+# Each line represents a step in the docker build process
 FROM ubuntu:latest
 
 LABEL version="0.0.1"
